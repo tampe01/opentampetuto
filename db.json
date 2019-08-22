@@ -1,0 +1,56 @@
+{
+    "activities": [
+        {
+            "id": 1,
+            "vide_url": "https://www.youtube.com/watch?v=fqI-feIYfhY", 
+            "name": "Surf Survivor", 
+            "description": "The surf survivor course encompasses all aspects of the Baywatch beach lifestyle.You'll be split into two group", 
+            "duration": "00:00:36", 
+            "created_by": "Newquay Activity Centre", 
+            "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/2018/03/surfing-private-lessons-1.jpg", 
+            "popularity": "10" ,
+            "category_id": "2" ,
+            "category": "Surfing" ,
+            "Keywords": "surfing,cornwall,lessons" 
+        },
+        {
+            "id": 2,
+            "vide_url": "https://www.youtube.com/watch?v=fqI-feIYfhY", 
+            "name": "Surf Survivor", 
+            "description": "The surf survivor course encompasses all aspects of the Baywatch beach lifestyle.You'll be split into two group", 
+            "duration": "00:00:36", 
+            "created_by": "Newquay Activity Centre", 
+            "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/2018/03/surfing-private-lessons-1.jpg", 
+            "popularity": "10" ,
+            "category_id": "2" ,
+            "category": "Surfing" ,
+            "Keywords": "surfing,cornwall,lessons" 
+        },
+        {
+            "id": 3,
+            "vide_url": "https://www.youtube.com/watch?v=fqI-feIYfhY", 
+            "name": "Surf Survivor", 
+            "description": "The surf survivor course encompasses all aspects of the Baywatch beach lifestyle.You'll be split into two group", 
+            "duration": "00:00:36", 
+            "created_by": "Newquay Activity Centre", 
+            "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/2018/03/surfing-private-lessons-1.jpg", 
+            "popularity": "10" ,
+            "category_id": "2" ,
+            "category": "Surfing" ,
+            "Keywords": "surfing,cornwall,lessons" 
+        },
+        {
+            "id": 4,
+            "vide_url": "https://www.youtube.com/watch?v=fqI-feIYfhY", 
+            "name": "Surf Survivor", 
+            "description": "The surf survivor course encompasses all aspects of the Baywatch beach lifestyle.You'll be split into two group", 
+            "duration": "00:00:36", 
+            "created_by": "Newquay Activity Centre", 
+            "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/2018/03/surfing-private-lessons-1.jpg", 
+            "popularity": "10" ,
+            "category_id": "2" ,
+            "category": "Surfing" ,
+            "Keywords": "surfing,cornwall,lessons" 
+        }
+    ]
+  }
